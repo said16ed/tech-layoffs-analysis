@@ -46,7 +46,7 @@ The dataset contains the following fields:
 
 The dataset covers layoffs reported between 2020 and 2023.
 
-**Dataset:** [https://github.com/said16ed/tech-layoffs-analysis/blob/main/layoffs.csv]
+**Dataset:** [https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv]
 
 ### Tools
 
