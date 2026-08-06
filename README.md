@@ -1,4 +1,5 @@
-<img width="1983" height="793" alt="Panoramico GitHub" src="https://github.com/user-attachments/assets/88336e73-3fc3-4e4a-baee-de97156d8410" />
+<img width="1983" height="793" alt="Panoramico GitHub" src="https://github.com/user-attachments/assets/d26d80ab-5163-441f-bdb4-0d83c2e34dff" />
+
 
 # Tech Layoffs Analysis 2020–2023
 
