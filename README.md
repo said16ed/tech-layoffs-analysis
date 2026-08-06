@@ -215,7 +215,7 @@ The companies with the highest number of layoffs varied significantly by year. I
 - In 2021, ByteDance ranked first, followed by Katerra, Zillow, Instacart, and White Hat Jr.
 - In 2022, Meta ranked first, followed by Amazon, Cisco, Peloton, and a tie between Carvana and Philips.
 - In 2023, Google ranked first, followed by Microsoft, Ericsson, Amazon, and a tie between Salesforce and Dell.
-- 
+
 The companies most affected by layoffs changed from year to year, indicating that workforce reductions were not concentrated in a single company throughout the entire period.
 
 ## 8. Conclusion
