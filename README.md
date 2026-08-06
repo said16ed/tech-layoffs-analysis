@@ -209,16 +209,22 @@ The dashboard allows users to explore layoffs by:
 
 Consumer, Retail, and Other were among the industries with the highest number of layoffs during the 2020–2023 period.
 Amazon recorded the highest total number of layoffs, with 18,150 employees affected, followed by Google with 12,000 and Meta with 11,000.
+
 The companies with the highest number of layoffs varied significantly by year. In 2020, Uber ranked first, followed by Booking.com, Groupon, Swiggy, and Airbnb.
--In 2021, ByteDance ranked first, followed by Katerra, Zillow, Instacart, and White Hat Jr.
--In 2022, Meta ranked first, followed by Amazon, Cisco, Peloton, and a tie between Carvana and Philips.
--In 2023, Google ranked first, followed by Microsoft, Ericsson, Amazon, and a tie between Salesforce and Dell.
+
+- In 2021, ByteDance ranked first, followed by Katerra, Zillow, Instacart, and White Hat Jr.
+- In 2022, Meta ranked first, followed by Amazon, Cisco, Peloton, and a tie between Carvana and Philips.
+- In 2023, Google ranked first, followed by Microsoft, Ericsson, Amazon, and a tie between Salesforce and Dell.
+- 
 The companies most affected by layoffs changed from year to year, indicating that workforce reductions were not concentrated in a single company throughout the entire period.
 
 ## 8. Conclusion
 
 The analysis shows that technology layoffs varied considerably across industries, companies, countries, and years between 2020 and 2023.
+
 Consumer, Retail, and Other were among the industries with the highest number of layoffs, while companies such as Amazon, Google, and Meta recorded some of the largest workforce reductions in the dataset.
+
 The yearly analysis also shows that the companies most affected changed over time, highlighting how workforce reductions varied across different periods and companies.
+
 The combination of SQL and Power BI provided a structured approach to cleaning, analyzing, and visualizing the dataset. The final dashboard allows users to explore layoff trends interactively and compare workforce reductions across different companies, industries, countries, and time periods.
 
